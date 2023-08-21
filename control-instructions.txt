@@ -1,0 +1,11 @@
+##  Control Instructions ##
+
+---->>> Used to determine flow of program
+
+a. Sequence Control - C language are follows step by step execution (Line by Line)
+
+b. Decision Control - Conditions If..else
+
+c. Case Control - Switch case - break - contiue
+
+d. Loop Control - For loop, while loop, do..while loop

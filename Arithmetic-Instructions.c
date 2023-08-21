@@ -1,6 +1,9 @@
 #include<stdio.h>
 
 //[ Arithmetic Instructions are { +  -  *  /  %  }  ]
+
+//  Most Prority [ * , / , %]  >>>>   [ + , - ]  >>> [ = ]
+
 int main() {
     int v, x, y, z;
 int a = 2, b = 3;
