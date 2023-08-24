@@ -20,7 +20,12 @@ int main(){
         strcpy(c1.city,"Ahmedabad");
 
     struct information *ptr = &c1;
+
+    // two way to print
+    
         printf("%s \n",(*ptr).name);
+        printf("%s \n",ptr->city);
+
 
     return 0;
 }
